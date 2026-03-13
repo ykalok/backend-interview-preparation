@@ -1,7 +1,8 @@
 # Backend Interview Preparation
 ![Java](https://img.shields.io/badge/Java-Backend-orange)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-Microservices-brightgreen)
-![System Design](https://img.shields.io/badge/SystemDesign-Scalable-blue)
+![System Design](https://img.shields.io/badge/SystemDesign-Scalable-blue
+
 
 This repository contains structured notes and implementations for **Backend Engineering interview preparation**.
 
@@ -19,6 +20,18 @@ This repository is designed for **Backend Engineers with 3–7 years of experien
 ---
 
 # Learning Roadmap
+
+## Topics
+
+- Java Core
+- Java Concurrency
+- Collections Internals
+- Spring Boot
+- Database
+- Distributed Systems
+- System Design
+- Low Level Design
+- Java Implementations
 
 ## Java Core
 
