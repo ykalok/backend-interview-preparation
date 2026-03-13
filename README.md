@@ -1,4 +1,7 @@
 # Backend Interview Preparation
+![Java](https://img.shields.io/badge/Java-Backend-orange)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Microservices-brightgreen)
+![System Design](https://img.shields.io/badge/SystemDesign-Scalable-blue)
 
 This repository contains structured notes and implementations for **Backend Engineering interview preparation**.
 
