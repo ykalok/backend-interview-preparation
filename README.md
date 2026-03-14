@@ -8,30 +8,55 @@ This repository contains structured notes and implementations for **Backend Engi
 
 The goal of this repository is to build strong knowledge in:
 
-- Java Internals
-- Concurrency
-- System Design
-- Microservices Architecture
-- Database Optimization
-- Low Level Design
+# 📚 Table of Contents
+- [Java Core](#java-core)
+- [Java Concurrency](#java-concurrency)
+- [Collections Internal](#collections-internal)
+- [Spring Boot Best Practices](#spring-boot-best-practices)
+- [Database Optimization](#database-optimization)
+- [Distributed Systems](#distributed-systems)
+- [System Design](#system-design)
+- [Low Level Design](#low-level-design)
+
+[//]: # (- Java Internals)
+
+[//]: # (- Concurrency)
+
+[//]: # (- System Design)
+
+[//]: # (- Microservices Architecture)
+
+[//]: # (- Database Optimization)
+
+[//]: # (- Low Level Design)
 
 This repository is designed for **Backend Engineers with 3–7 years of experience** preparing for product company interviews.
 
 ---
 
+[//]: # ()
+[//]: # (## Topics)
+
+[//]: # ()
+[//]: # (- Java Core)
+
+[//]: # (- Java Concurrency)
+
+[//]: # (- Collections Internals)
+
+[//]: # (- Spring Boot)
+
+[//]: # (- Database)
+
+[//]: # (- Distributed Systems)
+
+[//]: # (- System Design)
+
+[//]: # (- Low Level Design)
+
+[//]: # (- Java Implementations)
+
 # Learning Roadmap
-
-## Topics
-
-- Java Core
-- Java Concurrency
-- Collections Internals
-- Spring Boot
-- Database
-- Distributed Systems
-- System Design
-- Low Level Design
-- Java Implementations
 
 ## Java Core
 
